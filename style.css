@@ -1,0 +1,35 @@
+body {
+  background-color: Grey;
+}
+
+img{
+  width: 100px;
+  height: 100px;
+}
+
+.W1 {
+  border: solid red;
+  border-radius: 5px;
+  padding: 0 10px 0 10px;
+}
+
+.W2{
+  border: solid white;
+  border-radius: 5px;
+  padding: 0 10px 0 10px;
+}
+  
+.W3{
+  border: solid blue;
+  border-radius: 5px;
+  padding: 0 10px 0 10px;
+}
+} 
+
+h4 {
+  font-family: Arial, Helvitica, San-Serif, Bold;
+}
+
+h6 {
+  background-color: white;
+}
