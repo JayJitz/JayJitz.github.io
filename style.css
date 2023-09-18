@@ -1,5 +1,14 @@
 body {
-  background-color: Grey;
+ background-image : url(http://api.thumbr.it/whitenoise-361x370.png?background=ffffffff&noise=5c5c5c&density=13&opacity=62);
+}
+
+h1{
+  border-bottom: solid;
+}
+
+.contact{
+  border: groove;
+  
 }
 
 img{
@@ -8,27 +17,30 @@ img{
 }
 
 .W1 {
-  border: solid red;
+  border: double black;
   border-radius: 5px;
   padding: 0 10px 0 10px;
+  margin-bottom: 5%; 
 }
 
 .W2{
-  border: solid white;
+  border: double black;
   border-radius: 5px;
   padding: 0 10px 0 10px;
+  margin-bottom: 5%; 
 }
   
 .W3{
-  border: solid blue;
+  border: double black;
   border-radius: 5px;
   padding: 0 10px 0 10px;
-}
+  margin-bottom: 5%; 
 } 
 
 h4 {
   font-family: Arial, Helvitica, San-Serif, Bold;
 }
+
 
 h6 {
   background-color: white;
